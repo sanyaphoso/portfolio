@@ -3,7 +3,7 @@
 This is my personal web portfolio created with **HTML / CSS / JavaScript** and hosted via **GitHub Pages**.
 
 ## 🌐 Live Website
-👉 [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+👉 [https://sanyaphoso.github.io/portfolio](https://sanyaphoso.github.io/portfolio)
 
 ## 📁 Sections
 - About Me
